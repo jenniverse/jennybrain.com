@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jenniverse
 
 # Build settings
-remote_theme: texture
+remote_theme: samarsault/texture
 
 plugins:
   - jekyll-feed
