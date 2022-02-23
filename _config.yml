@@ -30,7 +30,6 @@ twitter_username:
 github_username:  jenniverse
 
 # Build settings
-theme: texture
 remote_theme: texture
 
 plugins:
