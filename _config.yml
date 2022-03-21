@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jenny's Brain
+title: Jenny's Digital Brain
 email: jenny@jennybrain.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Jenny's second brain! She is working on it right now, so it can be changed pretty often.
@@ -35,7 +35,7 @@ plugins:
 
 texture:
   style: purple
-  title: Jenny's Brain
+  title: Jenny's Digital Brain
   tagline: Student
   date_format: "%b %-d, %Y"
   showNav: true
