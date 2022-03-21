@@ -7,6 +7,7 @@ categories: Xcode iMessage
 
 # iMessage Sticker Packs: Babysteps for Beginners
 
+<br>
 
 ## ⏳ Amount of time it took 
 - around 5 hours including settings / uploading
@@ -85,7 +86,7 @@ After it gets ready to review, go to *General → App Review* and submit your ap
 
 <br>
 
-## 🎉 Congrats, you're DONE!!! 🎉
+## 🎉 Congrats, you're DONE!!!
 
 You'll get an email form App Store Connect saying that they've reveived your app for review.
 
