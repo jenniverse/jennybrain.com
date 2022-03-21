@@ -111,3 +111,5 @@ I had to set my bank account and submit a tax form since it was the first time u
 
 ### 🎁 This is mine!
 Here's a [link](https://apps.apple.com/us/app/c-error-stickers/id1614543714) to my sticker pack in the App Store if you want to take a look!
+
+<br>
