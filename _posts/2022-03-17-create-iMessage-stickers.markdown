@@ -30,7 +30,7 @@ If you're using more than two phone numbers, make sure the region code of your t
 ## ✔️ Creating image files of stickers
 *Messages* supports three sticker sizes. You can choose the size you want, but once you choose, all the images should be in that size. 
 
-![developer.apple.com](pics/sticker_size.png)
+![developer.apple.com](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/sticker_size.png)
   - The image must be a PNG, APNG, GIF, or JPEG file.
   - The file must be less than 500 KB
 
@@ -43,7 +43,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 2. *Create a new Xcode project* → *Sticker Pack App*
 3. You'll see this window
    
-   ![Xcode](pics/xcode_first_page.png)
+   ![Xcode](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/xcode_first_page.png)
     - Name your product
     - You can choose your name as a team (Not the one with the *(Personal Team)*).
     - If you have your website, usually it can be written in reverse DNS notation. If your website is `website.com`, then the Organization Identifier would be `com.website`. 
@@ -55,7 +55,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 7. You can run Simulator and see how it will look like on the iPhone or iPad. Open *XCode → Open Developer Tool → Simulator*. You would want to take screenshots on **iPhone 8 Plus, iPhone 11 Plus, and iPad Pro 12.9**. Those are the sizes of screenshots you need  when you upload your build for them to review. You can't submit the app without two of each.
 8. Once you're done, go to *Product* → *Archive*. Then, click *Validate App*.
 
-        If you get an error with Apple Silicon Macs, go to *General* → *Pricing and Availability* → *iPhone and iPad Apps on Apple Silicon Macs* on App Store Connect and uncheck the *Make this app available* box.
+    If you get an error with Apple Silicon Macs, go to *General* → *Pricing and Availability* → *iPhone and iPad Apps on Apple Silicon Macs* on App Store Connect and uncheck the *Make this app available* box.
 
 9.  Upload the archive to App Store Connect by clicking *Distribute App*.
 
@@ -69,7 +69,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 5. For *App Review Information*, since the sticker app wouldn't need sign-in information, you don't need to check *sign-in required* box.
 
 
-    ![appstoreconnet.apple.com](pics/appstoreconnect.png)
+    ![appstoreconnet.apple.com](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/appstoreconnect.png)
 6. For *Version Release*, I chose *Automatically release this version*.
 
 ### General → App Information
@@ -79,7 +79,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 - Since the sticker app wouldn't collect the data, you can just choose *Data Not Collected* and move on. 
 
 
-    ![appstoreconnect.apple.com](pics/data.png)
+    ![appstoreconnect.apple.com](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/data.png)
 
 After it gets ready to review, go to *General → App Review* and submit your app for review.
 
