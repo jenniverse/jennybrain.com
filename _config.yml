@@ -39,7 +39,7 @@ texture:
   tagline: Student
   date_format: "%b %-d, %Y"
   showNav: true
-
+  analytics_id: G-LGQ3NW7K92
   social_links:
     twitter: 
     github:  jenniverse
