@@ -32,6 +32,7 @@ remote_theme: samarsault/texture
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 texture:
   style: purple
