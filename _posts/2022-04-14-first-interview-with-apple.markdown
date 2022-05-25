@@ -16,7 +16,7 @@ categories: Internship Interview Apple
 
 ## 📨 I got an email from a recruiter
 The title was...
-> Internship opportunity with Apple's PPO Team!
+> "Internship opportunity with Apple's PPO Team!"
 
 How could you not get excited with that title?!
 
@@ -50,3 +50,5 @@ I didn't really know much about that topic, so I had to make anything up quickly
 ## ✔️ Overall
 
 I was so grateful that I got to have an opportunity to have interview with Apple. I'm not quite sure how it went, since I was busy answering the questions. I wasn't freaking out, and I tried my best. Regardless of the result, I think this was a great opportunity.
+
+<br>
