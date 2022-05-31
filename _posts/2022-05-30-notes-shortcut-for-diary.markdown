@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "iPhone Notes shortcut for diary"
-date:   2022-05-30 00:16:00 -0800
-categories: iPhone Shorcut Notes Journal Diary
+# date:   2022-05-30 00:16:00 -0800
+# categories: iPhone Shorcut Notes Journal Diary
 ---
 # Making a simple Notes shortcut for daily notes
 
