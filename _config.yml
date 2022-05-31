@@ -37,7 +37,7 @@ plugins:
 texture:
   style: purple
   title: Jenny's Digital Brain
-  tagline: Student at University of Southern California, majoring in Computer Science
+  # tagline: Student at University of Southern California, majoring in Computer Science
   date_format: "%b %-d, %Y"
   showNav: true
   analytics_id: G-LGQ3NW7K92
