@@ -30,7 +30,7 @@ The interview was more focused on personal questions, mainly about my resume.
 <br>
 
 *📌 All photos on this post were allowed to upload.*
-![JPL photo](pics/220525/JPLroom.png)
+![JPL photo](/_posts/pics/220525/JPLroom.png)
 
 <br>
 
@@ -43,7 +43,7 @@ I'm not supposed to write things that our team does in detail, so I'm just going
 ### ✔ Mon
 On the first day, I had to spend most of the time creating a badge (ID card) and going on a tour following the given schedule. Even though I'm an intern, I was considered as a regular employee since I was an year round intern. I went on a tour with other employees. It was so thrilled to see and be in places that were shown on news.
 
-![JPL photo](pics/220525/JPLmain.png)
+![JPL photo](/_posts/pics/220525/JPLmain.png)
 
 <br>
 
@@ -73,6 +73,6 @@ The first week was slow-paced. (My supervisor wasn't on lab since he was in diff
 
 <br>
 
-![JPL photo](pics/220525/JPLshow.png)
+![JPL photo](/_posts/pics/220525/JPLshow.png)
 
 
