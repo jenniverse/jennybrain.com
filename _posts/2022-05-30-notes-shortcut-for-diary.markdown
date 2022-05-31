@@ -4,7 +4,7 @@ title:  "iPhone Notes shortcut for diary"
 date:   2022-05-30 00:16:00 -0800
 categories: iPhone Shorcut Notes Journal Diary
 ---
-# iPhone Notes shortcut for diary
+# Making a simple Notes shortcut for daily notes
 
 ## ⏰ This is a super simple iPhone shorcut that takes ≤ 5 min to make.
 

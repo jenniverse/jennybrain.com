@@ -35,6 +35,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+# Theme setting
+minimal_mistakes_skin: "dark"
+
 # texture:
 #   style: purple
 #   title: Jenny's Digital Brain
