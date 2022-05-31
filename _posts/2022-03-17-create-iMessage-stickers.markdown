@@ -31,8 +31,7 @@ If you're using more than two phone numbers, make sure the region code of your t
 ## ✔️ Creating image files of stickers
 *Messages* supports three sticker sizes. You can choose the size you want, but once you choose, all the images should be in that size. 
 
-![developer.apple.com](../_posts/pics/220317/sticker_size.png)
-
+![developer.apple.com](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/220317/sticker_size.png)
 
   - The image must be a PNG, APNG, GIF, or JPEG file.
   - The file must be less than 500 KB
@@ -46,7 +45,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 2. *Create a new Xcode project* → *Sticker Pack App*
 3. You'll see this window
    
-   ![Xcode](../_posts/pics/220317/xcode_first_page.png)
+   ![Xcode](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/220317/xcode_first_page.png)
     - Name your product
     - You can choose your name as a team (Not the one with the *(Personal Team)*).
     - If you have your website, usually it can be written in reverse DNS notation. If your website is `website.com`, then the Organization Identifier would be `com.website`. 
@@ -72,7 +71,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 5. For *App Review Information*, since the sticker app wouldn't need sign-in information, you don't need to check *sign-in required* box.
 
 
-    ![appstoreconnet.apple.com](../_posts/pics/220317/appstoreconnect.png)
+    ![appstoreconnet.apple.com](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/220317/appstoreconnect.png)
 6. For *Version Release*, I chose *Automatically release this version*.
 
 ### General → App Information
@@ -82,7 +81,7 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 - Since the sticker app wouldn't collect the data, you can just choose *Data Not Collected* and move on. 
 
 
-    ![appstoreconnect.apple.com](../_posts/pics/220317/data.png)
+    ![appstoreconnect.apple.com](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/220317/data.png)
 
 After it gets ready to review, go to *General → App Review* and submit your app for review.
 
