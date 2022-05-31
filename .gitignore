@@ -3,7 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 _asset_bundler_cache
-vendor
+# vendor
 
 # General
 .DS_Store
