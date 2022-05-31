@@ -23,7 +23,7 @@ I had some unexpected free time, and I got bored. While taking shower, I randoml
 ## 💡 Idea
 
 I write my diary in this format:
-![My diary format](/_posts/pics/220530/example_diary.png)
+![My diary format](pics/220530/example_diary.png)
 - The title is a date in MMM dd format.
 - The first sentence is the title — maybe more like a subtitle.
 - The rest of it is the body.
@@ -31,7 +31,7 @@ I write my diary in this format:
 <br>
 
 When these are viewed in a list, it would look like this:
-![My diary list](/_posts/pics/220530/example_list.png)
+![My diary list](pics/220530/example_list.png)
 The grey boxes are the subtitles of notes.
 
 So everytime you write a diary, the subtitle and the body text would change, but the format of title (Date) would not.
