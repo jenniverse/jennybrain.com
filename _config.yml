@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jenny's Digital Brain
-email: jenny@jennybrain.com
+email: jkim4020@usc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is Jenny's second brain! She is working on it right now, so it can be changed pretty often.
 baseurl: ""
@@ -37,7 +37,7 @@ plugins:
 texture:
   style: purple
   title: Jenny's Digital Brain
-  tagline: Student
+  tagline: Student at University of Southern California, majoring in Computer Science
   date_format: "%b %-d, %Y"
   showNav: true
   analytics_id: G-LGQ3NW7K92
