@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "How to make your own iMessage sticker pack"
 # date:   2022-03-17 15:14:00 -0800
 # categories: Xcode iMessage

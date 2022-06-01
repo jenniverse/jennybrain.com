@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "My first internship interview with Apple"
 # date:   2022-04-14 22:02:00 -0800
 # categories: Internship Interview Apple
