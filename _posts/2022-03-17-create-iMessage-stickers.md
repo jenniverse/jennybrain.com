@@ -4,6 +4,9 @@ title:  "How to make your own iMessage sticker pack"
 # date:   2022-03-17 15:14:00 -0800
 # categories: Xcode iMessage
 toc: true
+toc_sticky: true
+header:
+    teaser: /_posts/pics/220317/sticker_size.png
 ---
 
 # iMessage Sticker Packs: Babysteps for Beginners
