@@ -1,5 +1,7 @@
 # main links
-# main:
+main:
+  - title: "Posts"
+    url: /_pages/recent-posts.html
 #   - title: "Quick-Start Guide"
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
