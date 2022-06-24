@@ -8,8 +8,20 @@
 @import "minimal-mistakes"; // main partials
 
 html {
-    a {
+    a:link {
         text-decoration: none;
         color: $primary-color
+
+    }
+
+    a:visited {
+        text-decoration: none;
+        color: #005d82
+
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: #013347
     }
 }
