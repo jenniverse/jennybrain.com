@@ -56,7 +56,8 @@ If you don't already have Xcode, you need to download the lastest version of Xco
 4. Save it, and click *Stickers*.
 5. For *iMessage App Icon*, design your own App Store icon and resize it into many different size following the requirements. (It may take some time!)
 6. For *Sticker Pack*, drag and drop the files you've created.
-7. You can run Simulator and see how it will look like on the iPhone or iPad. Open *XCode → Open Developer Tool → Simulator*. You would want to take screenshots on **iPhone 8 Plus, iPhone 11 Plus, and iPad Pro 12.9**. Those are the sizes of screenshots you need  when you upload your build for them to review. You can't submit the app without two of each.
+7. You can run Simulator and see how it will look like on the iPhone or iPad. Open *XCode → Open Developer Tool → Simulator*. You would want to take screenshots on **iPhone 8 Plus, iPhone 11 Pro Max, and iPad Pro 12.9**. Those are the sizes of screenshots you need  when you upload your build for them to review. You can't submit the app without two of each.
+
 8. Once you're done, go to *Product* → *Archive*. Then, click *Validate App*.
 
     If you get an error with Apple Silicon Macs, go to *General* → *Pricing and Availability* → *iPhone and iPad Apps on Apple Silicon Macs* on App Store Connect and uncheck the *Make this app available* box.
