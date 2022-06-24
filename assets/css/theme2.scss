@@ -11,13 +11,15 @@ html {
     a:link {
         text-decoration: none;
         color: $primary-color
+    }
 
+    div.footer a:link {
+        color: #FFFFFF
     }
 
     a:visited {
         text-decoration: none;
         color: #005d82
-
     }
 
     a:hover {
