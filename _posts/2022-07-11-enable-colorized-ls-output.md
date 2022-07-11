@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Enable colorized `ls` output in terminal"
 toc: true
 toc_sticky: true
 ---
-# Enable colorized `ls` output in terminal
+# See colorful `ls` output
 
 ### 📌 Check your shell
 `ps -p $$`
