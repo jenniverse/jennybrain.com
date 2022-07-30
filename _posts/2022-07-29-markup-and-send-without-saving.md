@@ -28,7 +28,7 @@ This is the shortcut:
 
 1. Click the photo you want to draw something on.
 2. Click the bottom left `share` button.
-![share button](/_posts/pics/220729/share.png)
+![share button](https://raw.githubusercontent.com/jenniverse/jennybrain.com/main/_posts/pics/220729/share.png)
 3. Scroll down the list and find `Markup and send`.
 4. Draw anything on the photo and click `Done`.
 5. On the Share Sheet, choose the person you want to share to.
