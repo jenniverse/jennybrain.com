@@ -79,8 +79,7 @@ OLs are established for *pragmatic* reasons.
 Official languages are specified for:
 - Area of life/activity
 - Geographical area - either all of a country or a sub-part
-
-
+<!--done-->
 ### 🌏 National Languages
 NLs are *symbolic* and intended to represent the nation and its projected national identity.
 
@@ -97,14 +96,16 @@ Further developing the languages selcected in Step 1.
 - Create dictionaries
 - Decided pronunciation
 - Decide how the language should be written (**graphization**)
+<!--done-->
 ### 📍 [Step 3] Promotion of new NLs/OLs
 - Mass education
 - Mass media
 - Positive incentives
+<!--done-->
 ### 📍 [Step 4] Winning acceptance
 - Encourage people to use and be proud of the new NL/OL.
 - Emphasize the practical value
-
+<!--done-->
 <br>
 
 ### 🛠 NLs should fulfill four special functions:
@@ -112,16 +113,17 @@ Further developing the languages selcected in Step 1.
 2. Separatist (distinguish its speakers from those of other nations)
 3. Prestige
 4. Frame-of-reference (be well-standardized)
-
+<!--done-->
 <br>
 
 ## Language purification and Linguistic protectionism
 ### 🧼 Language purification
 - Borrowed words (loanwords) are replaced with new native/internally-sourced words.
+<!--done-->
 ### 🥽 Linguistic protectionism
 - Policy that new words should only be created from internal resources
 - Old borrowed words are not eliminated (<-> language purification)
-
+<!--done-->
 <br>
 
 # Languages under pressure: minority groups and language loss
@@ -133,12 +135,13 @@ Further developing the languages selcected in Step 1.
 5. Inter-marriage
 6. The influence of school
 7. Children's lack of motivation to learn/use the HL.
+<!--done-->
 ## Capacity-Opportunity-Desire / COD
 A framework for assessing prospects for HL maintenance to be successful.
 - **Capacity**: abilities that individuals develop in the HL
 - **Opportunity**: the chances that speakers have to use the HL outside the home in daily life
 - **Desire**: the eagerness that individuals have to use the HL
-
+<!--done-->
 <br>
 
 ## 📉 Language endangerment and language death
@@ -150,6 +153,7 @@ Languages all over the world are becoming *moribund*.
   - **96% of the world's languages are spoken by only 4% of the world's population.**
   - If a language with 20,000 speakers or less should be characterized as *endangered*, then:
     - 2/3 of the world's languages are currently endangered, and may completely disappear during the course of the 21stC.
+<!--done-->
 ### 👿 Causes of language endangerment
 1. Economic factors
 2. Social factors
