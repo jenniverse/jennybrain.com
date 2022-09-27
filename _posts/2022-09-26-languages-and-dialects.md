@@ -73,15 +73,15 @@ Linguists assume that the dialects of a language are all mutually intelligible, 
 <br>
 <br>
 
-# Languages with special roles
+## Languages with special roles
 
-## 🗃 Official Languages
+### 🗃 Official Languages
 OLs are established for *pragmatic* reasons.
 Official languages are specified for:
 - Area of life/activity
 - Geographical area - either all of a country or a sub-part
   
-## 🌏 National Languages
+### 🌏 National Languages
 NLs are *symbolic* and intended to represent the nation and its projected national identity.
 
 <br>
@@ -111,7 +111,7 @@ Further developing the languages selcected in Step 1.
 
 <br>
 
-## 🛠 NLs should fulfill four special functions:
+### 🛠 NLs should fulfill four special functions:
 1. Unifying
 2. Separatist (distinguish its speakers from those of other nations)
 3. Prestige
