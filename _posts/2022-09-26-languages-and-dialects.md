@@ -124,6 +124,7 @@ Further developing the languages selcected in Step 1.
 - Policy that new words should only be created from internal resources
 - Old borrowed words are not eliminated (<-> language purification)
 <!--done-->
+
 <br>
 
 # Languages under pressure: minority groups and language loss
