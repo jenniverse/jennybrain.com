@@ -74,13 +74,11 @@ Linguists assume that the dialects of a language are all mutually intelligible, 
 <br>
 
 ## Languages with special roles
-
 ### 🗃 Official Languages
 OLs are established for *pragmatic* reasons.
 Official languages are specified for:
 - Area of life/activity
 - Geographical area - either all of a country or a sub-part
-  
 ### 🌏 National Languages
 NLs are *symbolic* and intended to represent the nation and its projected national identity.
 
@@ -89,22 +87,18 @@ NLs are *symbolic* and intended to represent the nation and its projected nation
 
 # Language Planning
 When developing a national or official language, **language planning** must be carried out.
-
 ### 📍 [Step 1] Status Planning
 Giving special roles to certain language/varieties (selecting new NLs and OLs).
-
 ### 📍 [Step 2] Corpus Planning
 Further developing the languages selcected in Step 1.
 - Develop vocab
 - Create dictionaries
 - Decided pronunciation
 - Decide how the language should be written (**graphization**)
-
 ### 📍 [Step 3] Promotion of new NLs/OLs
 - Mass education
 - Mass media
 - Positive incentives
-  
 ### 📍 [Step 4] Winning acceptance
 - Encourage people to use and be proud of the new NL/OL.
 - Emphasize the practical value
@@ -122,7 +116,6 @@ Further developing the languages selcected in Step 1.
 ## Language purification and Linguistic protectionism
 ### 🧼 Language purification
 - Borrowed words (loanwords) are replaced with new native/internally-sourced words.
-
 ### 🥽 Linguistic protectionism
 - Policy that new words should only be created from internal resources
 - Old borrowed words are not eliminated (<-> language purification)
@@ -130,7 +123,6 @@ Further developing the languages selcected in Step 1.
 <br>
 
 # Languages under pressure: minority groups and language loss
-
 ## What causes people not to use or learn their Heritage Languages?
 1. Political factors
 2. Social pressures
@@ -139,7 +131,6 @@ Further developing the languages selcected in Step 1.
 5. Inter-marriage
 6. The influence of school
 7. Children's lack of motivation to learn/use the HL.
-
 ## Capacity-Opportunity-Desire / COD
 A framework for assessing prospects for HL maintenance to be successful.
 - **Capacity**: abilities that individuals develop in the HL
@@ -151,14 +142,12 @@ A framework for assessing prospects for HL maintenance to be successful.
 ## 📉 Language endangerment and language death
 Languages all over the world are becoming *moribund*.
 - If a language is not being transmitted well to younger generations, it is "moribund".
-
 ### Large languages and small languages
 - There are 8 languages with 100+ million L1 speakers.
   - English, Mandarin, Spanish, Portuguese, Russian, Japanese, Hindi, Bengali
   - **96% of the world's languages are spoken by only 4% of the world's population.**
   - If a language with 20,000 speakers or less should be characterized as *endangered*, then:
     - 2/3 of the world's languages are currently endangered, and may completely disappear during the course of the 21stC.
-
 ### 👿 Causes of language endangerment
 1. Economic factors
 2. Social factors
@@ -167,12 +156,9 @@ Languages all over the world are becoming *moribund*.
 5. Urbanization
 6. Invasion and colonization
 7. Physical causes
-
 ## Positive reactions to language endangerment
-
 ### 📑 Language documentation
 - The goal is establishing good descriptions and records of endangered languages before they disapper.
-
 ### ☀️ Language revitalization
 - Bilingual education
 - Pre-school *"language nests"*
@@ -185,7 +171,6 @@ Languages all over the world are becoming *moribund*.
 <br>
 
 # Diglossia and Code-switching
-
 ## Diglossia
 - **Diglossia**: Swiching between two different varieties of the same language in *different areas of life*.
 1. Two distinct varities of the same language are used by speakers in a population
@@ -194,12 +179,10 @@ Languages all over the world are becoming *moribund*.
 4. The H variety is never used in informal conversation.
 5. The H variety my often be standardized.
 6. Literature/writing is predominantly in H.
-   
 ### 🎤 Domains of H/L use
 - Religious activities are carried out in H (not L).
 - Newspapers and technical/academic writing are regularly in H.
 - TV soap operas are in L.
-
 ### 🪢 Extended diglossia
 - Two distinct languages patterning in the typical H and L ways.
 
@@ -207,16 +190,13 @@ Languages all over the world are becoming *moribund*.
 
 ## Code-switching
 - **Code-switching**: Switching between two (or more) different languages in *a single conversation*.
-
 ### 🎛 Levels of code-switching
 1. Sentence-boundary CS
 2. Extra-sentential CS (*tag-insertion*)
 3. Clause-boundary CS
 4. Intra-sentential CS (*code-mixing*)
-
 - **Insertional CS**: words from L2 are inserted into the L1 base.
 - **Alternational CS**: both L1 and L2 appear in equal amounts.
-
 ### 💡 What causes people to CS?
 1. Imbalanced in the knowledge of L1 and L2.
 2. Stylistic reasons
