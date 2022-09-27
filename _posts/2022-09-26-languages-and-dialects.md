@@ -34,20 +34,19 @@ Speakers don't need to share identical rule systems and vocabularies to be viewe
 
 # Dialects
 ### 📍 Property 1:
-  A dialect is a variety that is NOT recognized as a distinct language, but is related to some officially-recognized language – dialects are both similar to and different from some languages. 
+A dialect is a variety that is NOT recognized as a distinct language, but is related to some officially-recognized language – dialects are both similar to and different from some languages. 
 ### 📍 Property 2:
-  Differences between dialects and standard forms of language occur in:
-  - Accent - pronunciation
-  - Vocabulary
-  - Grammar
+Differences between dialects and standard forms of language occur in:
+- Accent - pronunciation
+- Vocabulary
+- Grammar
 ### 📍 Property 3:
-  Dialects are commonly associated with a single geographical area/region.
+Dialects are commonly associated with a single geographical area/region.
 ### 📍 Property 4:
-  Linguists assume that the dialects of a language are all mutually intelligible, to a large degree.
+Linguists assume that the dialects of a language are all mutually intelligible, to a large degree.
 
 - **Isoglosses**: Boundary lines marking the distribution of dialect variables
 - **Dialect continuum**: Dialects blend into each other, and it's hard to identify where one ends and another begins.
-
 
 ## Three kinds of non-regional dialects
 - Religious dialects
