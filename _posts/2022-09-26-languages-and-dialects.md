@@ -79,13 +79,15 @@ OLs are established for *pragmatic* reasons.
 Official languages are specified for:
 - Area of life/activity
 - Geographical area - either all of a country or a sub-part
+
+
 ### 🌏 National Languages
 NLs are *symbolic* and intended to represent the nation and its projected national identity.
 
 <br>
 <br>
 
-# Language Planning
+## Language Planning
 When developing a national or official language, **language planning** must be carried out.
 ### 📍 [Step 1] Status Planning
 Giving special roles to certain language/varieties (selecting new NLs and OLs).
@@ -156,6 +158,8 @@ Languages all over the world are becoming *moribund*.
 5. Urbanization
 6. Invasion and colonization
 7. Physical causes
+
+
 ## Positive reactions to language endangerment
 ### 📑 Language documentation
 - The goal is establishing good descriptions and records of endangered languages before they disapper.
