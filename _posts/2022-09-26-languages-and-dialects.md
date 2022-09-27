@@ -57,7 +57,7 @@ Speakers don't need to share identical rule systems and vocabularies to be viewe
 <br>
 <br>
 
-# Styles and Registers
+## 📣 Styles and Registers
 - All speakers use their language in different ways -formal and informal **styles** of speaking.
 - **Register**: a type of speech used in a specific activity/job
 
