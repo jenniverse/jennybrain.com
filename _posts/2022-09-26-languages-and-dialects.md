@@ -120,11 +120,12 @@ Further developing the languages selcected in Step 1.
 ### 🧼 Language purification
 - Borrowed words (loanwords) are replaced with new native/internally-sourced words.
 <!--done-->
-<!-- Move on -->
+
 ### 🥽 Linguistic protectionism
 - Policy that new words should only be created from internal resources
 - Old borrowed words are not eliminated (<-> language purification)
 <!--done-->
+
 <br>
 <br>
 
@@ -138,20 +139,21 @@ Further developing the languages selcected in Step 1.
 6. The influence of school
 7. Children's lack of motivation to learn/use the HL.
 <!--done-->
-<!-- Move on -->
+
 ## Capacity-Opportunity-Desire / COD
 A framework for assessing prospects for HL maintenance to be successful.
 - **Capacity**: abilities that individuals develop in the HL
 - **Opportunity**: the chances that speakers have to use the HL outside the home in daily life
 - **Desire**: the eagerness that individuals have to use the HL
 <!--done-->
+
 <br>
 
 ## 📉 Language endangerment and language death
 Languages all over the world are becoming *moribund*.
 - If a language is not being transmitted well to younger generations, it is "moribund".
 <!-- Done -->
-<!-- Move on -->
+
 ### Large languages and small languages
 - There are 8 languages with 100+ million L1 speakers.
   - English, Mandarin, Spanish, Portuguese, Russian, Japanese, Hindi, Bengali
@@ -159,7 +161,7 @@ Languages all over the world are becoming *moribund*.
   - If a language with 20,000 speakers or less should be characterized as *endangered*, then:
     - 2/3 of the world's languages are currently endangered, and may completely disappear during the course of the 21stC.
 <!--done-->
-<!-- Move on -->
+
 ### 👿 Causes of language endangerment
 1. Economic factors
 2. Social factors
@@ -174,7 +176,7 @@ Languages all over the world are becoming *moribund*.
 ### 📑 Language documentation
 - The goal is establishing good descriptions and records of endangered languages before they disapper.
 <!-- Done -->
-<!-- Move on -->
+
 ### ☀️ Language revitalization
 - Bilingual education
 - Pre-school *"language nests"*
