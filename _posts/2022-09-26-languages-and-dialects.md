@@ -131,6 +131,7 @@ Further developing the languages selcected in Step 1.
 <br>
 
 # Languages under pressure: minority groups and language loss
+
 ## What causes people not to use or learn their Heritage Languages?
 1. Political factors
 2. Social pressures
