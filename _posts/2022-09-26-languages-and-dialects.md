@@ -117,6 +117,7 @@ Further developing the languages selcected in Step 1.
 <br>
 
 ## Language purification and Linguistic protectionism
+
 ### 🧼 Language purification
 - Borrowed words (loanwords) are replaced with new native/internally-sourced words.
 <!--done-->
@@ -129,9 +130,9 @@ Further developing the languages selcected in Step 1.
 <br>
 <br>
 
-# Languages under pressure: minority groups and language loss
+## Languages under pressure: minority groups and language loss
 
-## What causes people not to use or learn their Heritage Languages?
+### What causes people not to use or learn their Heritage Languages?
 1. Political factors
 2. Social pressures
 3. Economic factors
