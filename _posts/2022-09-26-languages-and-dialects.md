@@ -130,9 +130,8 @@ Further developing the languages selcected in Step 1.
 <br>
 <br>
 
-## Languages under pressure: minority groups and language loss
-
-### What causes people not to use or learn their Heritage Languages?
+# Languages under pressure: minority groups and language loss
+## What causes people not to use or learn their Heritage Languages?
 1. Political factors
 2. Social pressures
 3. Economic factors
@@ -177,7 +176,7 @@ Languages all over the world are becoming *moribund*.
 ## Positive reactions to language endangerment
 
 ### 📑 Language documentation
-- The goal is establishing good descriptions and records of endangered languages before they disapper.
+- The goal is establishing good descriptions and records of endangered languages before they disappear.
 <!-- Done -->
 
 ### ☀️ Language revitalization
@@ -186,7 +185,7 @@ Languages all over the world are becoming *moribund*.
   
 <br>
 
-### *Speakers of endangered languages don't need to abanbon their heritage languages to acquire another major language.*
+### *Speakers of endangered languages don't need to abandon their heritage languages to acquire another major language.*
 
 <br>
 <br>
@@ -194,8 +193,8 @@ Languages all over the world are becoming *moribund*.
 # Diglossia and Code-switching
 
 ## Diglossia
-- **Diglossia**: Swiching between two different varieties of the same language in *different areas of life*.
-1. Two distinct varities of the same language are used by speakers in a population
+- **Diglossia**: Switching between two different varieties of the same language in *different areas of life*.
+1. Two distinct varieties of the same language are used by speakers in a population
 2. **H**igh and **L**ow varieties each have different functions - used in different areas of life.
 3. H and L are learned at different times and in different environments.
 4. The H variety is never used in informal conversation.
@@ -242,6 +241,6 @@ Languages all over the world are becoming *moribund*.
      - To signal unfriendliness and social distance
      - "Linguistic dueling"
      - **Upward shifting**: to show education
-   - Unmarked language: The language that is conventionally used in a siuation X.
+   - Unmarked language: The language that is conventionally used in a situation X.
    - Marked language: The language that is not usually used in a situation X.
 
