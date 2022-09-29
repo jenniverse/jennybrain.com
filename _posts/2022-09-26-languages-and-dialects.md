@@ -185,13 +185,12 @@ Languages all over the world are becoming *moribund*.
   
 <br>
 
-### *Speakers of endangered languages don't need to abandon their heritage languages to acquire another major language.*
+*Speakers of endangered languages don't need to abandon their heritage languages to acquire another major language.*
 
 <br>
 <br>
 
 # Diglossia and Code-switching
-
 ## Diglossia
 - **Diglossia**: Switching between two different varieties of the same language in *different areas of life*.
 1. Two distinct varieties of the same language are used by speakers in a population
