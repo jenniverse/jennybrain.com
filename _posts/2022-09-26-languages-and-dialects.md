@@ -130,6 +130,7 @@ Further developing the languages selcected in Step 1.
 <br>
 
 # Languages under pressure: minority groups and language loss
+
 ## What causes people not to use or learn their Heritage Languages?
 1. Political factors
 2. Social pressures
@@ -173,6 +174,7 @@ Languages all over the world are becoming *moribund*.
 
 
 ## Positive reactions to language endangerment
+
 ### 📑 Language documentation
 - The goal is establishing good descriptions and records of endangered languages before they disapper.
 <!-- Done -->
@@ -189,6 +191,7 @@ Languages all over the world are becoming *moribund*.
 <br>
 
 # Diglossia and Code-switching
+
 ## Diglossia
 - **Diglossia**: Swiching between two different varieties of the same language in *different areas of life*.
 1. Two distinct varities of the same language are used by speakers in a population
