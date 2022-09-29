@@ -120,11 +120,12 @@ Further developing the languages selcected in Step 1.
 ### 🧼 Language purification
 - Borrowed words (loanwords) are replaced with new native/internally-sourced words.
 <!--done-->
+<!-- Move on -->
 ### 🥽 Linguistic protectionism
 - Policy that new words should only be created from internal resources
 - Old borrowed words are not eliminated (<-> language purification)
 <!--done-->
-
+<br>
 <br>
 
 # Languages under pressure: minority groups and language loss
@@ -137,6 +138,7 @@ Further developing the languages selcected in Step 1.
 6. The influence of school
 7. Children's lack of motivation to learn/use the HL.
 <!--done-->
+<!-- Move on -->
 ## Capacity-Opportunity-Desire / COD
 A framework for assessing prospects for HL maintenance to be successful.
 - **Capacity**: abilities that individuals develop in the HL
@@ -148,6 +150,8 @@ A framework for assessing prospects for HL maintenance to be successful.
 ## 📉 Language endangerment and language death
 Languages all over the world are becoming *moribund*.
 - If a language is not being transmitted well to younger generations, it is "moribund".
+<!-- Done -->
+<!-- Move on -->
 ### Large languages and small languages
 - There are 8 languages with 100+ million L1 speakers.
   - English, Mandarin, Spanish, Portuguese, Russian, Japanese, Hindi, Bengali
@@ -155,6 +159,7 @@ Languages all over the world are becoming *moribund*.
   - If a language with 20,000 speakers or less should be characterized as *endangered*, then:
     - 2/3 of the world's languages are currently endangered, and may completely disappear during the course of the 21stC.
 <!--done-->
+<!-- Move on -->
 ### 👿 Causes of language endangerment
 1. Economic factors
 2. Social factors
@@ -168,6 +173,8 @@ Languages all over the world are becoming *moribund*.
 ## Positive reactions to language endangerment
 ### 📑 Language documentation
 - The goal is establishing good descriptions and records of endangered languages before they disapper.
+<!-- Done -->
+<!-- Move on -->
 ### ☀️ Language revitalization
 - Bilingual education
 - Pre-school *"language nests"*
@@ -188,10 +195,14 @@ Languages all over the world are becoming *moribund*.
 4. The H variety is never used in informal conversation.
 5. The H variety my often be standardized.
 6. Literature/writing is predominantly in H.
+
+<!-- Done -->
 ### 🎤 Domains of H/L use
 - Religious activities are carried out in H (not L).
 - Newspapers and technical/academic writing are regularly in H.
 - TV soap operas are in L.
+
+<!-- Done -->
 ### 🪢 Extended diglossia
 - Two distinct languages patterning in the typical H and L ways.
 
@@ -199,6 +210,8 @@ Languages all over the world are becoming *moribund*.
 
 ## Code-switching
 - **Code-switching**: Switching between two (or more) different languages in *a single conversation*.
+
+<!-- Done -->
 ### 🎛 Levels of code-switching
 1. Sentence-boundary CS
 2. Extra-sentential CS (*tag-insertion*)
@@ -206,11 +219,15 @@ Languages all over the world are becoming *moribund*.
 4. Intra-sentential CS (*code-mixing*)
 - **Insertional CS**: words from L2 are inserted into the L1 base.
 - **Alternational CS**: both L1 and L2 appear in equal amounts.
+
+<!-- Done -->
 ### 💡 What causes people to CS?
 1. Imbalanced in the knowledge of L1 and L2.
 2. Stylistic reasons
    - "For fun"
    - To emphasize what they are saying
+
+
 3. Identity-related reasons
    - Convergence
      - To stress solidarity/closeness with others
@@ -220,5 +237,5 @@ Languages all over the world are becoming *moribund*.
      - "Linguistic dueling"
      - **Upward shifting**: to show education
    - Unmarked language: The language that is conventionally used in a siuation X.
-   - Marked languageL: The language that is not usually used in a situation X.
+   - Marked language: The language that is not usually used in a situation X.
 
