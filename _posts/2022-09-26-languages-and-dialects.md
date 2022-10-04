@@ -191,7 +191,11 @@ Languages all over the world are becoming *moribund*.
 <br>
 <br>
 
+<!-- done -->
+
 # Diglossia and Code-switching
+
+<!-- done -->
 ## Diglossia
 - **Diglossia**: Switching between two different varieties of the same language in *different areas of life*.
 1. Two distinct varieties of the same language are used by speakers in a population
