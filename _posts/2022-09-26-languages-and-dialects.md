@@ -130,9 +130,9 @@ Further developing the languages selcected in Step 1.
 <br>
 <br>
 
-# Languages under pressure: minority groups and language loss
+## Languages under pressure: minority groups and language loss
 
-## What causes people not to use or learn their Heritage Languages?
+### What causes people not to use or learn their Heritage Languages?
 1. Political factors
 2. Social pressures
 3. Economic factors
@@ -142,7 +142,7 @@ Further developing the languages selcected in Step 1.
 7. Children's lack of motivation to learn/use the HL.
 <!--done-->
 
-## Capacity-Opportunity-Desire / COD
+### Capacity-Opportunity-Desire / COD
 A framework for assessing prospects for HL maintenance to be successful.
 - **Capacity**: abilities that individuals develop in the HL
 - **Opportunity**: the chances that speakers have to use the HL outside the home in daily life
