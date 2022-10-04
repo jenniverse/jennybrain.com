@@ -190,7 +190,7 @@ Languages all over the world are becoming *moribund*.
 
 <br>
 
-# Diglossia and Code-switching
+## Diglossia and Code-switching
 
 <!-- done -->
 ## Diglossia
