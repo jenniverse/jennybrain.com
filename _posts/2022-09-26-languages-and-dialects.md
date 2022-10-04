@@ -189,9 +189,6 @@ Languages all over the world are becoming *moribund*.
 *Speakers of endangered languages don't need to abandon their heritage languages to acquire another major language.*
 
 <br>
-<br>
-
-<!-- done -->
 
 # Diglossia and Code-switching
 
