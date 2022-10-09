@@ -20,7 +20,7 @@ toc_sticky: true
 - Diving numbers in the 2's complement system causes rounding to the next smallest integer, not towards 0 as desired.
 
 ## Biasing in division by shifting
-- Add $2^k-1$ if `x < 0` 
+- Add `2^k-1` if `x < 0` 
 - Then shift
 
 ## Binary Multiplication
@@ -30,13 +30,14 @@ toc_sticky: true
 ## Binary Division
 - Dividing two (n)-bit numbers may yield an (n)-bit quotient and (n)-bit remainder.
 
+<br>
 
 # Floating Point
 
 ## Floating Point, Base 10
-$$
-1.2345 \cdot 10^{exp}
-$$
+```
+1.2345 * 10^{exp}
+```
 - Bias = 4
 - Stored as 12345[exp] (ex.123459 = 1.2345*10^5)
 - **Not associative**
@@ -46,12 +47,12 @@ $$
 - Floating points allows the radix point to be in a different location for each value.
 
 ## Floating Point, Base 2
-$$
-\pm b.bbb \cdot 2^{\pm exp}
-$$
+```
+± b.bbb * 2^{± exp}
+```
 `[sign] b.[frac] * 2^[exp]`
 
-- Normalized FP format: $\pm 1.bbbbbb \cdot 2^{\pm exp}$
+- Normalized FP format: `± 1.bbbbbb * 2^{± exp}`
 - Floating-point numbers are always normalized.
 - The 1. is not stored but assumed since we always will store normalized numbers.
 
@@ -66,7 +67,7 @@ $$
     - range of exponent = -126 to +127
     - value = stored - `127`
 - 23 fraction bits
-- Equivalent decimal range: 7 digits * $10^{\pm 38}$
+- Equivalent decimal range: 7 digits * 10^{ 38}
 - s(1) | exp(8) | fraction(23)
 
 ### Double Precision (64-bit)
@@ -75,7 +76,7 @@ $$
 - 11 exponent bits
     - value = stored - 1023
 - 52 fraction bits
-- Equivalent decimal range: 16 digits * $10^{\pm 308}$
+- Equivalent decimal range: 16 digits * 10^{± 308}
 - s(1) | exp(11) | fraction(52)
 
 ## Special Values
@@ -96,6 +97,8 @@ $$
 - `10...0 : round to even`
 - `1x...x : round up`
 - `0x...x : round down`
+
+
 ### Round towards 0 (chopping)
 
 
